@@ -42,7 +42,7 @@ To get started with the Flutter Todo App, follow the instructions below.
    git clone https://github.com/szucsyf/flutter_todo.git
 
 
-### Usage
+#### Usage
  
  Navigate to the project directory:
 
@@ -62,7 +62,7 @@ Copy code
 flutter run
 Explore the app's features and functionalities.
 
-### Investigative Areas
+##### Investigative Areas
 This investigation focuses on various aspects of Flutter app development, including:
 
 UI Design: Experiment with different UI components, layouts, and styles to create an appealing user interface.
@@ -77,10 +77,10 @@ Architecture: Investigate different architectural patterns such as MVC, MVVM, or
 
 Feel free to contribute your findings and insights in these areas to help others learn and understand Flutter development better.
 
-### Contributing
+###### Contributing
 Contributions are welcome! If you have any ideas, improvements, or fixes, please follow the contribution guidelines.
 
-### License
+######## License
 This project is licensed under the MIT License.
 
 Happy Flutter investigating!
