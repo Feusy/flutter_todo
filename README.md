@@ -1,6 +1,6 @@
 # Flutter Todo App
 
-![Flutter Logo](https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png)
+![Flutter Logo](https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg)
 
 Welcome to the **Flutter Todo App** repository! This project is aimed at exploring and investigating various aspects of a Todo list application developed using the Flutter framework. Whether you're a beginner looking to learn Flutter or an experienced developer curious about building a practical project, this repository is designed to provide insights and hands-on experience.
 
