@@ -36,51 +36,31 @@ To get started with the Flutter Todo App, follow the instructions below.
 
 ### Installation
 
- Clone the repository to your local machine:
+ - Clone the repository to your local machine:
 
    ```bash
    git clone https://github.com/szucsyf/flutter_todo.git
 
 
-#### Usage
+### Usage
  
- Navigate to the project directory:
+ - Navigate to the project directory: cd flutter-todo-investigation
+ - Install the required packages: flutter pub get
+ - Run the app on an emulator or physical device: flutter run
 
-bash
-Copy code
-cd flutter-todo-investigation
-Install the required packages:
 
-bash
-Copy code
-flutter pub get
-Usage
-Run the app on an emulator or physical device:
 
-bash
-Copy code
-flutter run
-Explore the app's features and functionalities.
-
-##### Investigative Areas
+## Investigative Areas
 This investigation focuses on various aspects of Flutter app development, including:
 
 UI Design: Experiment with different UI components, layouts, and styles to create an appealing user interface.
 
-State Management: Compare and contrast state management approaches like Provider, Riverpod, or BLoC to understand their benefits and use cases.
-
-Testing: Write unit tests and widget tests to ensure the reliability of the app's components.
+State Management: State management approaches and use case.
 
 Performance: Analyze the app's performance using tools like the Flutter Performance Profiler and optimize where necessary.
 
-Architecture: Investigate different architectural patterns such as MVC, MVVM, or Clean Architecture, and implement them within the app.
 
-Feel free to contribute your findings and insights in these areas to help others learn and understand Flutter development better.
-
-###### Contributing
-Contributions are welcome! If you have any ideas, improvements, or fixes, please follow the contribution guidelines.
-
-######## License
+### License
 This project is licensed under the MIT License.
 
 Happy Flutter investigating!
